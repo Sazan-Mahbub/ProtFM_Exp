@@ -1,0 +1,7 @@
+*.pkl.gz
+data_cache/
+checkpoints_protbert_only/
+*.zip
+.nfsb75772d9a1c5f68f00000556
+.nfse39149a1a0168fb200000557
+
